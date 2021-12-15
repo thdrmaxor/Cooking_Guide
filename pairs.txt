@@ -1,5 +1,0 @@
-pairs:
-  GT : geumtaek
-  JH : junho
-  SH : sanghhuk
-  etc : 2 person
